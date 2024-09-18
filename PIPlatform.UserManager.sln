@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIPlatform.UserManager.API", "PIPlatform.UserManager.API\PIPlatform.UserManager.API.csproj", "{2585D7AB-0D7C-4483-884A-6FB1370E7FD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIPlatform.UserManager.DomainModel", "PIPlatform.UserManager.DomainModel\PIPlatform.UserManager.DomainModel.csproj", "{6DEBAC63-0FAA-42FF-8432-83E1C18FDB69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIPlatform.UserManager.DAL", "PIPlatform.UserManager.DAL\PIPlatform.UserManager.DAL.csproj", "{45C2EB9B-3232-4683-90D8-373C501A8591}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIPlatform.UserManager.BL", "PIPlatform.UserManager.BL\PIPlatform.UserManager.BL.csproj", "{D43077C6-82C6-445F-9860-18391972228C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIPlatform.UserManagar.Models", "PIPlatform.UserManagar.Models\PIPlatform.UserManagar.Models.csproj", "{16D501A2-A64E-493C-AC48-5733354BCE23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2585D7AB-0D7C-4483-884A-6FB1370E7FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2585D7AB-0D7C-4483-884A-6FB1370E7FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2585D7AB-0D7C-4483-884A-6FB1370E7FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2585D7AB-0D7C-4483-884A-6FB1370E7FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEBAC63-0FAA-42FF-8432-83E1C18FDB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEBAC63-0FAA-42FF-8432-83E1C18FDB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEBAC63-0FAA-42FF-8432-83E1C18FDB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEBAC63-0FAA-42FF-8432-83E1C18FDB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C2EB9B-3232-4683-90D8-373C501A8591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C2EB9B-3232-4683-90D8-373C501A8591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C2EB9B-3232-4683-90D8-373C501A8591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C2EB9B-3232-4683-90D8-373C501A8591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43077C6-82C6-445F-9860-18391972228C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43077C6-82C6-445F-9860-18391972228C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43077C6-82C6-445F-9860-18391972228C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43077C6-82C6-445F-9860-18391972228C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D501A2-A64E-493C-AC48-5733354BCE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D501A2-A64E-493C-AC48-5733354BCE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D501A2-A64E-493C-AC48-5733354BCE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D501A2-A64E-493C-AC48-5733354BCE23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9057AC76-845A-4FC0-A71F-02E9BFD14D55}
+	EndGlobalSection
+EndGlobal
